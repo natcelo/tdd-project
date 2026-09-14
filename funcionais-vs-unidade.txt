@@ -1,0 +1,7 @@
+Testes Funcionais:
+- Testam o sistema completo do ponto de vista do usuário.
+- Verificam se uma funcionalidade atende ao comportamento esperado.
+
+Testes de Unidade:
+- Testam partes pequenas e isoladas do código.
+- Verificam se cada unidade funciona corretamente de forma independente.
